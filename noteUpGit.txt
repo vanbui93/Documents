@@ -1,0 +1,15 @@
+Tạo Github và upload lần đầu
+1. khởi tạo
+git init
+2. Tạo tài khoản trên https://github.com
+3. cài đặt git scm để Git hiểu code
+4. remote đến nơi lưu trữ trên github
+git remote add origin https://github.com/vanbui93/reactjs.git
+5. add vào GIT tất cả những file dưới máy
+git add *
+6. tạo commit đầu tiên
+git commit -m " Upload file code lan dau"
+7. push commit lên
+git push origin master
+
+vanbui93/Vanbui903300
