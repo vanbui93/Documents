@@ -11,5 +11,3 @@ git add *
 git commit -m " Upload file code lan dau"
 7. push commit lên
 git push origin master
-
-vanbui93/Vanbui903300
