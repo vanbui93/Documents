@@ -11,3 +11,7 @@ git add *
 git commit -m " Upload file code lan dau"
 7. push commit lên
 git push origin master
+
+
+neu bi ngat ket noi khi dang lam thi chay lai dong lenh nay
+git config --global --unset-all http.proxy
