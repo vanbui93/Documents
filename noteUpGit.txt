@@ -4,7 +4,7 @@ git init
 2. Tạo tài khoản trên https://github.com
 3. cài đặt git scm để Git hiểu code
 4. remote đến nơi lưu trữ trên github
-git remote add origin https://github.com/vanbui93/reactjs.git
+git remote add origin https://github.com/vanbui93/react_tranining.git
 5. add vào GIT tất cả những file dưới máy
 git add *
 6. tạo commit đầu tiên
